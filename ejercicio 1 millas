@@ -1,0 +1,6 @@
+1)Inicio
+2)Solicitar x= varmillas "variable en millas"
+3)Establecer como constante "a= equivalencia en km de 1 milla" a= 1.60934 km
+4)Establecer y = varkilometros
+5)Reaizar operación y =((x)(a)/1)
+6)Marcar final con valor "y" en kilometros.

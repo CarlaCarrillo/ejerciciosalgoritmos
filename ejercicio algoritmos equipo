@@ -1,0 +1,24 @@
+1) Inicio
+solicitar entrada de variable 
+2)Si variable = varmillas ejecutar proceso a)
+a) Si variable = varmillas entonces ejecutar:
+  Establecer como constante "a= equivalencia en km de 1 milla" a= 1.60934 km
+  Establecer varkilometros
+  Realizar operación varkilometros =((varmillas)(a)/1)
+  Marcar final con valor de varkilometros  en kilometros.
+  
+3) Si variable = varyarda, entonces ejecutar b)
+  Solicitar variable= varyardas  
+  Establecer constante "a" en cm a=91.4398
+  Realizar operación para convertir constante en cm a km "a1"=a/100000
+  Realizar operación para obtener la variable de yardas en km VarKm= VarYard*a1
+  Marcar final con valor de varkilometros  en kilometros.
+
+6) Si variable = varpulgada entonces ejecutar c)
+  Solicitar variable= varyardas
+  Establecer constante "a" en mm a=25.40
+  Realizar operación para convertir constante en mm a km "a1"=a/1000000
+  Realizar operación para obtener la variable de yardas en km VarKm= VarYard*a1
+  Marcar final con valor de varkilometros  en kilometros.
+ 
+8) fin
